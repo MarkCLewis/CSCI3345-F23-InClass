@@ -1,6 +1,4 @@
-# play-scalajs-slinky
+# Web Apps In-Class Code`
 
-This is my starter project for things that involve Play using Scala.js and
-the Slinky React binding. I'm using this as the starter for student code in
-Web Apps Spring 2021.
-
+This is the in-class code for CSCI3345-F23 using Play. I'll push code here if
+we write things during class time.
